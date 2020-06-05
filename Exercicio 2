@@ -1,16 +1,3 @@
-/*Olha quem veio passar no Brasil, nosso maior pesquisador bruxo de criaturas mÃ¡gicas Newt Scammander, ele deixou a mala encostada
-	em um banco na praia de boa viagem, e um rapaz roubou achando que ia ter lucro e sem querer abriu a mala e escapou 10 animais,
-	Newt obliviando o ladrÃ£o e pegando a maleta de volta comeÃ§a a se preocupar e agora tem que pegar os animais de volta sem saber por onde comeÃ§ar,
-	mas como Ã© organizado ele tem uma lista dos animais que sairam. E agora ele pede a vocÃªs alunos de Hogwarts para ajuda-lo,
-	dando uma maleta para cada um.*/
-
- /*Um animalMagico tem um nome, habitat, magia, idade.*/
- /*Um bruxo tem um nome, idade e um conjunto de animais(no caso uma maleta para guardar os animais), existem dois mÃ©todos na classe Bruxo,
-	addAnimal() no qual leva um animal como parametro, e o getAnimal() no qual retorna a maleta (array) dos animais que vocÃª tem. os mÃ©todos
-	setNome() para definir o nome do bruxo e getNome() para retornar o nome do bruxo.*/
-
- /* Tanto AnimalMagico quanto Bruxo podem ter um mÃ©todo toString, que retorna uma String (declare como
-	"public String toString" (depois vocÃªs vÃ£o entender)), descrevendo o objeto */
 package hp;
 
 import java.util.*;
